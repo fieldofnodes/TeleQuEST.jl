@@ -10,7 +10,7 @@
 
 
 ```julia
-] add
+] add https://github.com/fieldofnodes/TeleQuEST.jl # Will be add TeleQuEST once registered
 ```
 
 
