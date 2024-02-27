@@ -6,5 +6,4 @@
 
 [pkgeval-img]: https://juliaci.github.io/NanosoldierReports/pkgeval_badges/E/Example.svg
 [pkgeval-url]: https://JuliaCI.github.io/NanosoldierReports/pkgeval_badges/T/TeleQuEST.html
-
 [![][pkgeval-img]][pkgeval-url]
